@@ -6,6 +6,7 @@
 
         <Contributors>
             <Name>Kimbel_Byungseok</Name>
+            <Name>randomizer_mk1</Name>
         </Contributors>
 
         <LocalizedStrings>
@@ -13,10 +14,10 @@
             <!-- ============================ -->
             <!-- Diagnoses - Emergency -->
             <!-- ============================ -->
-            <GameDBLocalizedString>      <LocID>DIA_PTI</LocID>                         <Text>Pork tapeworm</Text>	</GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>DIA_PTI_DESCRIPTION</LocID>             <Text>Pork tapeworms (T. solium) are parasitic flatworms living in the digestive system of humans. Pigs act as intermediate hosts when they consume fodder or water contaminated with human feces. Eating undercooked pork can cause infection.</Text>	</GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>DIA_BTI</LocID>                         <Text>Beef tapeworm</Text>	</GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>DIA_BTI_DESCRIPTION</LocID>             <Text>Beef tapeworms (T. saginata) are parasitic flatworms living in the digestive system of humans. Cattle act as intermediate hosts when they consume fodder or water contaminated with human feces. Eating undercooked beef can cause infection.</Text>	</GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_PTI</LocID>                         <Text>갈고리촌충</Text>	</GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_PTI_DESCRIPTION</LocID>             <Text>갈고리촌충(T. solium)은 기생성 편형동물로 사람의 소화기관에 서식합니다.돼지들이 감염된 물이나, 인간의 변을 섭취할 때 종간 매체 역할을 합니다.잘 조리되지 않은 돼지고기 섭취시 감염될 수 있습니다.</Text>	</GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_BTI</LocID>                         <Text>무구조충</Text>	</GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_BTI_DESCRIPTION</LocID>             <Text>무구조충(T. saginata)은 기생성 편형동물로 사람의 소화기관에 서식합니다.소가 감염된 물이나, 인간의 변을 섭취할 때 종간 매체 역할을 합니다.잘 조리되지 않은 소고기 섭취시 감염될 수 있습니다.</Text>	</GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>DIA_CKX</LocID>                         <Text>Chickenpox</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>DIA_CKX_DESCRIPTION</LocID>             <Text>Chickenpox, also known as varicella, is a highly contagious disease caused by the initial infection with Varicella zoster virus. The disease results in a characteristic skin rash that forms small, itchy blisters, which eventually scab over.</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>DIA_HRZ</LocID>                         <Text>Shingles</Text>  </GameDBLocalizedString>
